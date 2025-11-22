@@ -13,6 +13,12 @@ const eslintConfig = defineConfig([
     "build/**",
     "next-env.d.ts",
   ]),
+
+  {
+    rules: {
+      camelcase: ["error", {properties: "always"}]
+    },
+  }
 ]);
 
 export default eslintConfig;
