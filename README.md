@@ -5,3 +5,5 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1-blue?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
 > Plataforma que disponibiliza materiais de aulas de programação ministradas pelo Profº Maycon
+
+## 🚀 Em desenvolvimento
